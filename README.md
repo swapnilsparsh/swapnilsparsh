@@ -18,9 +18,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsparsh&layout=compact&hide=html&theme=radical" alt="swapnilsparsh" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&theme=radical" alt="swapnilsparsh" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&theme=radical" alt="swapnilsparsh" />
 
-<p align="center">
+<p align="right">
  <a href="arezona.lucky55@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://github.com/swapnilsparsh"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
