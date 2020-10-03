@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Srivastava </h1>
 <h3 align="center">Front End Developer 👨‍💻 || DSC Core Team 🐦|| Flask Developer ⚛️ || Pythoneer 🐍</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" width="350"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
