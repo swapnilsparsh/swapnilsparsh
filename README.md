@@ -27,7 +27,7 @@
  <a href="https://github.com/swapnilsparsh"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/swapnilsparsh"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
- <a href = "https://instagram.com/swapnilsprarsh"><img src = "https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" width='30px'></a>
+ <a href = "https://instagram.com/swapnilsparsh"><img src = "https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" width='30px'></a>
 </p>
 
 
