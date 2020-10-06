@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Flask, Data Structures and Algorithms**
+- 💬 Ask me about **HTML, CSS, Javascript, Flask**
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
 
