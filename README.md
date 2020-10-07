@@ -18,7 +18,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsparsh&layout=compact&hide=html&theme=radical" alt="swapnilsparsh" width="320" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&theme=radical" alt="swapnilsparsh" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&theme=radical" alt="swapnilsparsh" width="450"/>
 <br>
 <br>
 <br>
