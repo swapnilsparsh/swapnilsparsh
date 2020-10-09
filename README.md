@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Swapnil Srivastava </h1>
+<h1 align="center">I'm Swapnil Srivastava😄</h1>
 <h3 align="center">Front End Developer 👨‍💻 || DSC Core Team 🐦|| Flask Developer ⚛️ || Pythoneer 🐍</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/gi84IkFRzwube/giphy.gif" width="350"/>
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
@@ -10,23 +10,13 @@
 
 - 🌱 I’m currently learning **Google Cloud, React, jQuery**
 
-- 👨‍💻 Some of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Javascript, Flask**
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsparsh&layout=compact&hide=html&theme=radical" alt="swapnilsparsh" width="320" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&theme=radical" alt="swapnilsparsh" width="450"/>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&hide_border=false" />
 
 ## Connect with me
 
