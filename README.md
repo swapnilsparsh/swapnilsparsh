@@ -23,15 +23,15 @@
 <a href="https://github.com/swapnilsparsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/swapnilspaarsh" target="_blank">
+<a href="https://twitter.com/swapnilsparsh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/swapnil-sparsh-srivastava/" target="_blank">
+<a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/swapnilsparsh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="arezona.lucky55@gmail.com?hl=en" target="_blank">
+<a href="mailto:arezona.lucky55@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </div>  
