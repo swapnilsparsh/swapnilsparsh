@@ -18,14 +18,22 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&hide_border=false" />
 
-## Connect with me
-
-<p align=>
- <a href="arezona.lucky55@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://github.com/swapnilsparsh"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://www.linkedin.com/in/swapnil-srivastava-sparsh/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/swapnilsparsh"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
- <a href = "https://instagram.com/swapnilsparsh"><img src = "https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" width='30px'></a>
-</p>
-
+<h2 align="center" >Connect with me</h2>
+<div align="center">
+<a href="https://github.com/swapnilsparsh" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/swapnilspaarsh" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/swapnil-sparsh-srivastava/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/swapnilsparsh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="arezona.lucky55@gmail.com?hl=en" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
+</a> 
+</div>  
+  
 
