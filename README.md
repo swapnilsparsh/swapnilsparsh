@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&show_icons=true&hide_border=false" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&count_private=true&theme=merko" />
 
 <h2 align="center" >Connect with me</h2>
 <div align="center">
