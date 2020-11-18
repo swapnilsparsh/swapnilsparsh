@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Google Cloud, React**
+- 🌱 I’m currently learning **Firebase, React**
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
