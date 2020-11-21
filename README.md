@@ -1,5 +1,5 @@
 <h1 align="center">I'm Swapnil Srivastava😄</h1>
-<h3 align="center">Front End Developer 👨‍💻 || DSC Core Team ⚙|| Flask Developer ⚛️ || Pythoneer 🐍</h3>
+<h3 align="center">Front End Developer 👨‍💻 | DSC Core Team ⚙| Flask Developer ⚛️ || Pythoneer 🐍</h3>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **Firebase, React**
+- 🌱 I’m currently learning **Kotlin, Firebase**
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
