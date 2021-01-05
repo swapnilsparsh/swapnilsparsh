@@ -1,5 +1,5 @@
 <h1 align="center">I'm Swapnil Srivastava😄</h1>
-<h3 align="center">Front End Developer 👨‍💻 | DSC Core Team ⚙| DSC WOW Campus Ambassador ⚛️ | Pythoneer 🐍</h3>
+<h3 align="center">Front End Developer 👨‍💻 | DSC Core Team ⚙| Campus Leader at Merge Intern ⚛️ | Pythoneer 🐍</h3>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
