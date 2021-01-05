@@ -18,6 +18,18 @@
 
 - 😉 Check my [Portfolio](https://swapnilsparsh.github.io/) website here
 
+<h2 align="center">⚡️ Technology Stacks</h2>
+<p align="center">
+ <img src="https://img.icons8.com/color/480/000000/c-programming.png" alt ="C" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" alt ="C++" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/python.png" alt = "Python" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/html-5.png" alt ="HTML5" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/css3.png" alt ="CSS3" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/javascript.png" alt = "Javascript" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/bootstrap.png" alt ="Bootstrap" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/sass.png" alt ="Sass" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/git.png" alt ="Git" width ="50" height ="50"/>
+</p>
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
