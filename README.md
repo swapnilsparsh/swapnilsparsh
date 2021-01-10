@@ -1,7 +1,7 @@
 <h1 align="center">I'm Swapnil Srivastava😄</h1>
 <h3 align="center">Front End Developer 👨‍💻 | DSC Core Team ⚙| Campus Leader at Merge Intern ⚛️ | Pythoneer 🐍</h3>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300px" border-radius="50px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
