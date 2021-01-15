@@ -31,6 +31,13 @@
  <img src="https://img.icons8.com/color/480/000000/git.png" alt ="Git" width ="50" height ="50"/>
 </p>
 
+<h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=swapnilsparsh&theme=darkhub&row=1&no-frame=true&no-bg=true"/>
+  </a>
+</p>
+
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&count_private=true&theme=algolia" />
