@@ -38,10 +38,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=swapnilsparsh&count_private=true&theme=algolia" />
 </p>
 
-<h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnilsparsh&theme=darkhub&row=1&no-frame=true&no-bg=true" />
-</p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
