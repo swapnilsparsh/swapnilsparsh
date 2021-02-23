@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
 
-- 😉 Check my [Portfolio](https://swapnilsparsh.github.io/) website here
+- 😉 Check my [Portfolio](https://swapnilsparsh.github.io/) website here.
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
