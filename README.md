@@ -29,6 +29,7 @@
  <img src="https://img.icons8.com/color/480/000000/bootstrap.png" alt ="Bootstrap" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/sass.png" alt ="Sass" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/git.png" alt ="Git" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/google-cloud.png" alt ="Google-Cloud" width ="50" height ="50"/>
  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/kotlin.png" alt ="Kotlin" width ="50" height ="50"/>
 </p>
