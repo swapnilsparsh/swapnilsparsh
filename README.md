@@ -47,3 +47,8 @@
   <a target="_blank"href="https://twitter.com/swapnilsparsh"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:arezona.lucky55@gmail.com?subject=Hello%20Swapnil,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
