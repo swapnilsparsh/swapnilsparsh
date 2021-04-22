@@ -1,5 +1,5 @@
 <h1 align="center">I'm Swapnil Srivastava😄</h1>
-<h3 align="center">Front End Developer 👨‍💻 | DSC Core Team ⚙| Project Admin at DevScript Winter of Code and GirlScript Summer of Code ⚛️ | Pythoneer 🐍</h3>
+<h3 align="center">DSC Core Team ⚙| Project Admin at DevScript Winter of Code and GirlScript Summer of Code ⚛️ | Pythoneer 🐍</h3>
 
 
 <img align="right" alt="GIF" src="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2015/08/el-trabajo-de-un-disenador-grafico-tres.gif" width="300px" border-radius="50px" />
