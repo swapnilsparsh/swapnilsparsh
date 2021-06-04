@@ -34,6 +34,10 @@
  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" alt ="Visual-Studio-Code" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/kotlin.png" alt ="Kotlin" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/flutter.png" alt ="Kotlin" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/dart.png" alt ="Kotlin" width ="50" height ="50"/>
+ 
+
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
