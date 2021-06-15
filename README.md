@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
-- 💻 Check my latest project [Rescue](https://github.com/swapnilsparsh/Rescue)
-
 - 💬 Ask me about **HTML, CSS, Javascript, Flask**
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
