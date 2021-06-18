@@ -2,7 +2,7 @@
 <h3 align="center">DSC Core Team ⚙| Project Admin at DevScript Winter of Code and GirlScript Summer of Code ⚛️</h3>
 
 
-<img align="right" alt="GIF" src="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2015/08/el-trabajo-de-un-disenador-grafico-tres.gif" width="300px" border-radius="50px" />
+<img align="right" alt="GIF" src="https://roc21cdn-roc21.netdna-ssl.com/blog/wp-content/uploads/2015/08/el-trabajo-de-un-disenador-grafico-tres.gif" height="230px" width="280px" border-radius="50px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Javascript, Flask**
+- 💬 Ask me about anything [here](https://twitter.com/swapnilsparsh) ! I am happy to help.
 
 - ⚡ Fun fact **I am a Potterhead and a Marvelite**
 
