@@ -34,6 +34,10 @@
  <img src="https://img.icons8.com/color/480/000000/kotlin.png" alt ="Kotlin" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/flutter.png" alt ="Flutter" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/dart.png" alt ="Dart" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/ios/480/ffffff/flask.png" alt ="Flask" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/firebase.png" alt ="Firebase" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/tensorflow.png" alt ="TensorFlow" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/react-native.png" alt ="React" width ="50" height ="50"/>
  
 
 </p>
