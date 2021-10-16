@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/swapnilsparsh?tab=repositories)
+in
 
 - 💬 Ask me about anything [here](https://twitter.com/swapnilsparsh) ! I am happy to help.
 
