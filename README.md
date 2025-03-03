@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Swapnil](https://swapnilsparsh.github.io) 
 
 **Glad to see you here!** :star_struck: a Web Developer and Open Source Developer🚀 from India. <br> <br> 
-[![Linkedin Badge](https://img.shields.io/badge/-SwapnilSparsh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/swapnilsparsh)](https://www.linkedin.com/in/swapnilsparsh/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-swapnilsparsh-blue?logo=linkedin)](https://www.linkedin.com/in/swapnilsparsh/)
 [![Twitter Badge](http://img.shields.io/badge/-@swapnilsparsh-1ca0f1?style=social&logo=x&logoColor=blue&link=https://twitter.com/swapnilsparsh)](https://twitter.com/swapnilsparsh) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:arezona.lucky55@gmail.com)](mailto:arezona.lucky55@gmail.com)
 
