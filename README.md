@@ -3,7 +3,7 @@
 **Tech Explorer. Jack of All Trades.**  
 Turning ideas into reality — one commit at a time. 🚀
 
-From full-stack apps to Web3, CLIs to tools developers love.  
+From full-stack apps to AI, Web3, CLIs to tools developers love.  
 *Code is my canvas, and I paint across the stack.* 😎
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-swapnilsparsh-blue?logo=linkedin)](https://www.linkedin.com/in/swapnilsparsh/)
